@@ -1,5 +1,6 @@
-- 🔭 I’m currently working on my Web Development Skills
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with everything
+- 🔭 I’m currently a Front-End Development Student working on my Web Development Skills
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🤔 I’m looking for help with everything 
 - 💬 Ask me about anything
+- :_{rose}:
 - 📫 How to reach me: eth_86@hotmail.com
