@@ -1,5 +1,6 @@
-- 🔭 I’m currently a Front-End Development Student working on my Web Development Skills
-- 🌱 I’m learning Figma, Wordpress, HTML, CSS and JavaScript
+- Hi 👋, I'm Elin
+- 🔭 I’m a Front-End Development Student working on my Web Development Skills
+- 🌱 I’m currently learning Figma, Github, HTML, CSS, JavaScript
 - 🤔 I’m looking for help with everything 
 - 💬 Ask me about anything
-- 📫 How to reach me: eth_86@hotmail.com
+- 📫 How to reach me: eth_86@hotmail.com or you can also find me in Linkedin
